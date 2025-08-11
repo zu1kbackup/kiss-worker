@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "author": "Gabe<yugang2002@gmail.com>",
   "devDependencies": {
-    "wrangler": "2.12.3"
+    "wrangler": "4.28.1"
   },
   "private": true,
   "scripts": {
